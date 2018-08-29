@@ -1,5 +1,4 @@
 Created by Boban Jankovic
 
--Goal is to click on highest number, when you click on number higher then 950000 you won.
-
-If you click on smaller number then your currently number number you lose.
+- Goal is to click on the highest number, when you click on number higher then 950000 you win.
+- If you click on a number smaller than yours current number, you lose.
